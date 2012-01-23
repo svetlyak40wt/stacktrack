@@ -1,0 +1,5 @@
+PIL==1.1.7
+distribute==0.6.24
+-e git://github.com/kfdm/gntp.git@64042aee3b037a5e801c929765dec90e309508df#egg=gntp-dev
+py-stackexchange==1.1-4
+wsgiref==0.1.2
